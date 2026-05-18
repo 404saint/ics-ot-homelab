@@ -211,7 +211,7 @@ client.close()
 
 The telemetry indicates all digital actuators are currently initialized to an **OFF** state.
 
-<img src="images/correct-attacker-command (read).png" alt="Pymodbus Read" style="height: 200px; width: auto;">
+<img src="images/correct-attacker-command.png" alt="Pymodbus Read" style="height: 200px; width: auto;">
 
 ### 3. Arbitrary Value Injection (The Attack)
 
